@@ -20,16 +20,16 @@ Github. [https://github.com/PGRRR](https://github.com/PGRRR)
 ### Back-end
 
 - Java
-- ~~Spring
+- ~~Spring~~
 - Eclipse, IntelliJ
 
 ### Front-end
 
 - JavaScript, HTML/CSS
-- ~~React
+- ~~React~~
 - Visual Studio Code
 
 </br>
 
 # C**ertificate.**
-- ~~정보처리기능사
+- ~~정보처리기능사~~
