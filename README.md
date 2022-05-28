@@ -23,8 +23,8 @@ Github. [https://github.com/PGRRR](https://github.com/PGRRR)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=black)
 
-![Eclipse](https://img.shields.io/badge/Eclipse-white.svg?style=flat-square&logo=Eclipse&logoColor=2C2255)
 ![IntelliJ](https://img.shields.io/badge/IntelliJ-white.svg?style=flat-square&logo=IntelliJIDEA&logoColor=black)
+![Eclipse](https://img.shields.io/badge/Eclipse-white.svg?style=flat-square&logo=Eclipse&logoColor=2C2255)
 ![VisualStudioCode](https://img.shields.io/badge/VS%20Code-black.svg?style=flat-square&logo=VisualStudioCode&logoColor=007ACC)
 
 ![Git](https://img.shields.io/badge/Git-beige.svg?style=flat-square&logo=Git&logoColor=F05032)
@@ -35,7 +35,7 @@ Github. [https://github.com/PGRRR](https://github.com/PGRRR)
 ### Back-end
 
 - Java
-- Eclipse, IntelliJ
+- IntelliJ, Eclipse
 
 ### Front-end
 
@@ -43,5 +43,9 @@ Github. [https://github.com/PGRRR](https://github.com/PGRRR)
 - Visual Studio Code
 
 </br>
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@9b088db3-8ede-4dad-9a4b-63489f41376c/c1f1053d-57a5-4c5d-bb93-9b8c24205f0e.png" /></a>
 
+# Coding Activity over Last 7 Days
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@9b088db3-8ede-4dad-9a4b-63489f41376c/01409e01-50a2-406e-b5d2-6dfc24795721.png" /></a>
+</br>
 # C**ertificate.**
