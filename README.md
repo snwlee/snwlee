@@ -17,7 +17,7 @@ Github. [https://github.com/PGRRR](https://github.com/PGRRR)
 </br>
 
 # 📍 Skill.
-![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=java&logoColor=white)
+![Java11](https://img.shields.io/badge/Java11-007396.svg?&style=for-the-badge&logo=java&logoColor=white)
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white)
@@ -34,12 +34,19 @@ Github. [https://github.com/PGRRR](https://github.com/PGRRR)
 
 ### Back-end
 
-- Java
+- Java 11
+- Spring Boot, Spring MVC
+- Gradle
 - IntelliJ, Eclipse
+- Git, Github, Sourcetree
+
+### DevOps
+
+- MySQL
 
 ### Front-end
 
-- JavaScript, HTML/CSS
+- JavaScript, HTML5 / CSS3
 - Visual Studio Code
 
 </br>
