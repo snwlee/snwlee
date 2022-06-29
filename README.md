@@ -1,6 +1,6 @@
-# iseon_u | 피드백하며 일하는 개발자
+# 이선우 | 피드백 받으며 성장하는 야생형 신입 개발자
 
->피드백하며 일하는 신입 개발자 이선우입니다.
+>피드백 받으며 성장하는 야생형 신입 개발자 이선우입니다.
 
 </br>
 
@@ -18,6 +18,10 @@ Github. [https://github.com/PGRRR](https://github.com/PGRRR)
 
 # 📍 Skill.
 ![Java11](https://img.shields.io/badge/Java11-007396.svg?&style=for-the-badge&logo=java&logoColor=white)
+![Spring MVC](https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white)
+![Gradle](https://img.shields.io/badge/Gradle-white.svg?style=for-the-badge&logo=Gradle&logoColor=02303A)
+
+![MySQL](https://img.shields.io/badge/MySQL-black.svg?style=for-the-badge&logo=MySQL&logoColor=4479A1)
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white)
@@ -30,6 +34,8 @@ Github. [https://github.com/PGRRR](https://github.com/PGRRR)
 ![Git](https://img.shields.io/badge/Git-beige.svg?style=flat-square&logo=Git&logoColor=F05032)
 ![Sourcetree](https://img.shields.io/badge/Sourcetree-white.svg?style=flat-square&logo=Sourcetree&logoColor=0052CC)
 ![Github](https://img.shields.io/badge/Github-181717.svg?style=flat-square&logo=Github&logoColor=white)
+
+![Slack](https://img.shields.io/badge/slack-4A154B.svg?style=flat-square&logo=slack&logoColor=white)
 
 
 ### Back-end
@@ -49,10 +55,17 @@ Github. [https://github.com/PGRRR](https://github.com/PGRRR)
 - JavaScript, HTML5 / CSS3
 - Visual Studio Code
 
+### Collaboration
+
+- Slack
+
+# C**ertificate.**
+
+- 정보처리기능사
+
 </br>
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@9b088db3-8ede-4dad-9a4b-63489f41376c/c1f1053d-57a5-4c5d-bb93-9b8c24205f0e.png" /></a>
 
 # Coding Activity over Last 7 Days
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@9b088db3-8ede-4dad-9a4b-63489f41376c/01409e01-50a2-406e-b5d2-6dfc24795721.png" /></a>
 </br>
-# C**ertificate.**
