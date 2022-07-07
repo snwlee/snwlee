@@ -1,3 +1,13 @@
+
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pgrrr&repo=hole-in-one)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pgrrr&repo=just-eat)
+
+</br>
+
+![PGRRR's GitHub stats](https://github-readme-stats.vercel.app/api?username=pgrrr&show_icons=true&theme=prussian)
+
+</br>
+
 # 이선우 | 피드백 받으며 성장하는 신입 개발자
 
 >피드백 받으며 성장하는 신입 개발자 이선우입니다.
@@ -72,6 +82,9 @@ Github. [https://github.com/PGRRR](https://github.com/PGRRR)
 - 정보처리기능사
 
 </br>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pgrrr&hide=html,tex)
+
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@9b088db3-8ede-4dad-9a4b-63489f41376c/c1f1053d-57a5-4c5d-bb93-9b8c24205f0e.png" /></a>
 
 # Coding Activity over Last 7 Days
