@@ -70,9 +70,7 @@ Github. [https://github.com/PGRRR](https://github.com/PGRRR)
 # 📍 C**ertificate.**
 
 - 정보처리기능사
-</br>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pgrrr)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pgrrr)](https://github.com/anuraghazra/github-readme-stats)
+
 </br>
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@9b088db3-8ede-4dad-9a4b-63489f41376c/c1f1053d-57a5-4c5d-bb93-9b8c24205f0e.png" /></a>
 
