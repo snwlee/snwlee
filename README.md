@@ -1,10 +1,10 @@
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pgrrr&repo=hole-in-one)
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pgrrr&repo=just-eat)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pgrrr&repo=hole-in-one)](https://github.com/PGRRR/hole-in-one)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pgrrr&repo=just-eat)](https://github.com/PGRRR/just-eat)
 
 </br>
 
-![PGRRR's GitHub stats](https://github-readme-stats.vercel.app/api?username=pgrrr&show_icons=true&theme=prussian)
+[![PGRRR's GitHub stats](https://github-readme-stats.vercel.app/api?username=pgrrr&show_icons=true&theme=prussian)](https://github.com/PGRRR)
 
 </br>
 
@@ -35,25 +35,25 @@ Github. [https://github.com/PGRRR](https://github.com/PGRRR)
 </br>
 
 # 📍 Skill.
-![Java11](https://img.shields.io/badge/Java11-007396.svg?&style=for-the-badge&logo=java&logoColor=white)
-![Spring MVC](https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white)
-![Gradle](https://img.shields.io/badge/Gradle-white.svg?style=for-the-badge&logo=Gradle&logoColor=02303A)
+[![Java11](https://img.shields.io/badge/Java11-007396.svg?&style=for-the-badge&logo=java&logoColor=white)](https://ko.wikipedia.org/wiki/%EC%9E%90%EB%B0%94_(%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D_%EC%96%B8%EC%96%B4))
+[![Spring MVC](https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white)](https://spring.io/)
+[![Gradle](https://img.shields.io/badge/Gradle-white.svg?style=for-the-badge&logo=Gradle&logoColor=02303A)](https://gradle.org/)
 
-![MySQL](https://img.shields.io/badge/MySQL-black.svg?style=for-the-badge&logo=MySQL&logoColor=4479A1)
+[![MySQL](https://img.shields.io/badge/MySQL-black.svg?style=for-the-badge&logo=MySQL&logoColor=4479A1)](https://www.mysql.com/)
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=black)
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white)](https://developer.mozilla.org/ko/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white)](https://developer.mozilla.org/ko/docs/Web/CSS)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=black)](https://www.javascript.com/)
 
-![IntelliJ](https://img.shields.io/badge/IntelliJ-white.svg?style=flat-square&logo=IntelliJIDEA&logoColor=black)
-![Eclipse](https://img.shields.io/badge/Eclipse-white.svg?style=flat-square&logo=Eclipse&logoColor=2C2255)
-![VisualStudioCode](https://img.shields.io/badge/VS%20Code-black.svg?style=flat-square&logo=VisualStudioCode&logoColor=007ACC)
+[![IntelliJ](https://img.shields.io/badge/IntelliJ-white.svg?style=flat-square&logo=IntelliJIDEA&logoColor=black)](https://www.jetbrains.com/ko-kr/idea/)
+[![Eclipse](https://img.shields.io/badge/Eclipse-white.svg?style=flat-square&logo=Eclipse&logoColor=2C2255)](https://www.eclipse.org/)
+[![VisualStudioCode](https://img.shields.io/badge/VS%20Code-black.svg?style=flat-square&logo=VisualStudioCode&logoColor=007ACC)](https://code.visualstudio.com/)
 
-![Git](https://img.shields.io/badge/Git-beige.svg?style=flat-square&logo=Git&logoColor=F05032)
-![Sourcetree](https://img.shields.io/badge/Sourcetree-white.svg?style=flat-square&logo=Sourcetree&logoColor=0052CC)
-![Github](https://img.shields.io/badge/Github-181717.svg?style=flat-square&logo=Github&logoColor=white)
+[![Git](https://img.shields.io/badge/Git-beige.svg?style=flat-square&logo=Git&logoColor=F05032)](https://git-scm.com/)
+[![Sourcetree](https://img.shields.io/badge/Sourcetree-white.svg?style=flat-square&logo=Sourcetree&logoColor=0052CC)](https://www.sourcetreeapp.com/)
+[![Github](https://img.shields.io/badge/Github-181717.svg?style=flat-square&logo=Github&logoColor=white)](https://github.com/)
 
-![Slack](https://img.shields.io/badge/slack-4A154B.svg?style=flat-square&logo=slack&logoColor=white)
+[![Slack](https://img.shields.io/badge/slack-4A154B.svg?style=flat-square&logo=slack&logoColor=white)](https://slack.com/intl/ko-kr/)
 
 
 ### Back-end
@@ -83,7 +83,7 @@ Github. [https://github.com/PGRRR](https://github.com/PGRRR)
 
 </br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pgrrr&hide=html,tex)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pgrrr&hide=html,tex)](https://github.com/PGRRR)
 
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@9b088db3-8ede-4dad-9a4b-63489f41376c/c1f1053d-57a5-4c5d-bb93-9b8c24205f0e.png" /></a>
 
