@@ -1,6 +1,6 @@
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pgrrr&repo=hole-in-one)](https://github.com/PGRRR/hole-in-one)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pgrrr&repo=just-eat)](https://github.com/PGRRR/just-eat)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pgrrr&repo=hole-in-one)](https://github.com/PGRRR/hole-in-one)
 
 </br>
 
@@ -32,10 +32,12 @@ Github. [https://github.com/PGRRR](https://github.com/PGRRR)
 깊이가 부족해도 일단 경험한 후에</br>
 필요에 의해서 이론 기술들을 공부하는 방식을 선호하고 있습니다.
 
+꾸준히 성장하는 개발자가 되기 위해 1 일 1 커밋과 매일 배운 내용을 기록하는 것을 습관화합니다.
+
 </br>
 
 # 📍 Skill.
-[![Java11](https://img.shields.io/badge/Java11-007396.svg?&style=for-the-badge&logo=java&logoColor=white)](https://ko.wikipedia.org/wiki/%EC%9E%90%EB%B0%94_(%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D_%EC%96%B8%EC%96%B4))
+[![Java8](https://img.shields.io/badge/Java8-007396.svg?&style=for-the-badge&logo=java&logoColor=white)](https://ko.wikipedia.org/wiki/%EC%9E%90%EB%B0%94_(%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D_%EC%96%B8%EC%96%B4))
 [![Spring MVC](https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white)](https://spring.io/)
 [![Gradle](https://img.shields.io/badge/Gradle-white.svg?style=for-the-badge&logo=Gradle&logoColor=02303A)](https://gradle.org/)
 
@@ -77,9 +79,29 @@ Github. [https://github.com/PGRRR](https://github.com/PGRRR)
 
 - Slack
 
+# 📍 Experience.
+
+**Java Back-end 웹개발자 과정 교육**
+</br>
+2022.01 ~ 2022.07
+
+- 정보처리기능사 자격증 취득
+- 자바의 정석 독학
+
+**2022 DevCamp : Java의 정석 남궁성과 포트폴리오 1차 팀 프로젝트**
+</br>
+2022.08 ~ 2022.09
+
+- 협업 경험을 위한 팀 프로젝트 진행
+- DB 모델링 학습
+
 # 📍 C**ertificate.**
 
-- 정보처리기능사
+**정보처리기능사** (2022.08)
+- 한국산업인력공단
+
+**운전면허2종** (2016.04)
+- 경기남부지방경찰청
 
 </br>
 
