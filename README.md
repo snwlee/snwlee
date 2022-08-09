@@ -60,7 +60,7 @@ Github. [https://github.com/PGRRR](https://github.com/PGRRR)
 
 ### Back-end
 
-- Java 11
+- Java 8
 - Spring Boot, Spring MVC
 - Gradle
 - IntelliJ, Eclipse
@@ -85,8 +85,7 @@ Github. [https://github.com/PGRRR](https://github.com/PGRRR)
 </br>
 2022.01 ~ 2022.07
 
-- 정보처리기능사 자격증 취득
-- 자바의 정석 독학
+- 자바의 정석 학습
 
 **2022 DevCamp : Java의 정석 남궁성과 포트폴리오 1차 팀 프로젝트**
 </br>
@@ -96,9 +95,6 @@ Github. [https://github.com/PGRRR](https://github.com/PGRRR)
 - DB 모델링 학습
 
 # 📍 C**ertificate.**
-
-**정보처리기능사** (2022.08)
-- 한국산업인력공단
 
 **운전면허2종** (2016.04)
 - 경기남부지방경찰청
