@@ -30,16 +30,18 @@ Github. [https://github.com/PGRRR](https://github.com/PGRRR)
 
 >실무에서 어떤 기술을 어떤 식으로 활용하는지,</br>
 깊이가 부족해도 일단 경험한 후에</br>
-필요에 의해서 이론 기술들을 공부하는 방식을 선호하고 있습니다.
+필요에 의해서 이론 기술들을 공부하는 방식을 선호하고 있습니다.</br>
+생활 속 문제점을 코드로 해결했던 경험들을 기반으로 개발자의 길을 선택했습니다.
 
 꾸준히 성장하는 개발자가 되기 위해 1 일 1 커밋과 매일 배운 내용을 기록하는 것을 습관화합니다.
 
 </br>
 
 # 📍 Skill.
-[![Java8](https://img.shields.io/badge/Java8-007396.svg?&style=for-the-badge&logo=java&logoColor=white)](https://ko.wikipedia.org/wiki/%EC%9E%90%EB%B0%94_(%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D_%EC%96%B8%EC%96%B4))
+[![Java11](https://img.shields.io/badge/Java11-007396.svg?&style=for-the-badge&logo=java&logoColor=white)](https://ko.wikipedia.org/wiki/%EC%9E%90%EB%B0%94_(%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D_%EC%96%B8%EC%96%B4))
 [![Spring MVC](https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white)](https://spring.io/)
-[![Gradle](https://img.shields.io/badge/Gradle-white.svg?style=for-the-badge&logo=Gradle&logoColor=02303A)](https://gradle.org/)
+[![Gradle](https://img.shields.io/badge/Gradle-beige.svg?style=for-the-badge&logo=Gradle&logoColor=02303A)](https://gradle.org/)
+[![Maven](https://img.shields.io/badge/Apache%20Maven-beige.svg?style=for-the-badge&logo=Apache%20Maven&logoColor=C71A36)](https://maven.apache.org/)
 
 [![MySQL](https://img.shields.io/badge/MySQL-black.svg?style=for-the-badge&logo=MySQL&logoColor=4479A1)](https://www.mysql.com/)
 
@@ -47,37 +49,43 @@ Github. [https://github.com/PGRRR](https://github.com/PGRRR)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white)](https://developer.mozilla.org/ko/docs/Web/CSS)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=black)](https://www.javascript.com/)
 
-[![IntelliJ](https://img.shields.io/badge/IntelliJ-white.svg?style=flat-square&logo=IntelliJIDEA&logoColor=black)](https://www.jetbrains.com/ko-kr/idea/)
-[![Eclipse](https://img.shields.io/badge/Eclipse-white.svg?style=flat-square&logo=Eclipse&logoColor=2C2255)](https://www.eclipse.org/)
+[![IntelliJ](https://img.shields.io/badge/IntelliJ-beige.svg?style=flat-square&logo=IntelliJIDEA&logoColor=black)](https://www.jetbrains.com/ko-kr/idea/)
+[![Eclipse](https://img.shields.io/badge/Eclipse-beige.svg?style=flat-square&logo=Eclipse&logoColor=2C2255)](https://www.eclipse.org/)
 [![VisualStudioCode](https://img.shields.io/badge/VS%20Code-black.svg?style=flat-square&logo=VisualStudioCode&logoColor=007ACC)](https://code.visualstudio.com/)
 
 [![Git](https://img.shields.io/badge/Git-beige.svg?style=flat-square&logo=Git&logoColor=F05032)](https://git-scm.com/)
-[![Sourcetree](https://img.shields.io/badge/Sourcetree-white.svg?style=flat-square&logo=Sourcetree&logoColor=0052CC)](https://www.sourcetreeapp.com/)
+[![Sourcetree](https://img.shields.io/badge/Sourcetree-beige.svg?style=flat-square&logo=Sourcetree&logoColor=0052CC)](https://www.sourcetreeapp.com/)
 [![Github](https://img.shields.io/badge/Github-181717.svg?style=flat-square&logo=Github&logoColor=white)](https://github.com/)
 
 [![Slack](https://img.shields.io/badge/slack-4A154B.svg?style=flat-square&logo=slack&logoColor=white)](https://slack.com/intl/ko-kr/)
 
-
 ### Back-end
 
-- Java 8
+- Java 11
 - Spring Boot, Spring MVC
-- Gradle
+- JUnit 5, JUnit 4
+- Gradle, Maven
 - IntelliJ, Eclipse
 - Git, Github, Sourcetree
-
-### DevOps
-
-- MySQL
+- Postman
 
 ### Front-end
 
 - JavaScript, HTML5 / CSS3
+- jQuery
 - Visual Studio Code
+
+### DevOps
+
+- AWS RDS, EC2
+- MySQL
+- MyBatis
+- Tomcat
 
 ### Collaboration
 
 - Slack
+- Notion
 
 # 📍 Experience.
 
@@ -85,7 +93,16 @@ Github. [https://github.com/PGRRR](https://github.com/PGRRR)
 </br>
 2022.01 ~ 2022.07
 
+- 정보처리기능사 자격증 취득
 - 자바의 정석 학습
+
+**2022 DevCamp 1기 : Java의 정석 남궁성과 포트폴리오 팀 프로젝트**
+</br>
+2022.08 ~ 2022.09
+
+- 우수 팀 프로젝트 순위 1위
+- 협업 경험을 위한 팀 프로젝트 진행
+- DB 모델링 학습, 웹 성능 최적화 학습
 
 **2022 DevCamp : Java의 정석 남궁성과 포트폴리오 1차 팀 프로젝트**
 </br>
@@ -93,6 +110,14 @@ Github. [https://github.com/PGRRR](https://github.com/PGRRR)
 
 - 협업 경험을 위한 팀 프로젝트 진행
 - DB 모델링 학습
+
+**동성그룹 자회사 제네웰**
+</br>
+2021.03 ~ 2021.09
+
+- 연구원 제약 제조 보조 업무
+- 약품 재고 관리
+- 정규직 제안 이후 진로 변경으로 인한 퇴사
 
 # 📍 C**ertificate.**
 
