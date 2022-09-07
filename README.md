@@ -27,14 +27,20 @@ Github. [https://github.com/PGRRR](https://github.com/PGRRR)
 </br>
 
 # 📍 Introduce.
+### 개발자의 길
 
 생활 속 문제점을 프로그래밍으로 해결했던 경험들과 해결 이후 이용자들의 피드백을 받을 수 있었던 좋은 경험들을 기반으로 개발자의 길을 선택했습니다.
+
+### 개발의 즐거움을 아는 개발자
+
+한 달 동안 24시간, 팀원과 함께 밤낮없이 개발을 진행하면서 개발은 혼자 하는 것이 아닌 함께 만들어 가는 과정이라는 것을 알게 되었습니다. 또한 그로 인해 좋은 결과를 얻으면서 협업의 힘과 즐거움을 깨닫게 되었습니다.
 
 </br>
 
 # 📍 Skill.
 [![Java11](https://img.shields.io/badge/Java11-007396.svg?&style=for-the-badge&logo=java&logoColor=white)](https://ko.wikipedia.org/wiki/%EC%9E%90%EB%B0%94_(%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D_%EC%96%B8%EC%96%B4))
 [![Spring MVC](https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white)](https://spring.io/)
+[![Spring Boot](https://img.shields.io/badge/spring%20boot-6DB33F.svg?style=for-the-badge&logo=spring%20boot&logoColor=white)](https://spring.io/)
 [![Gradle](https://img.shields.io/badge/Gradle-beige.svg?style=for-the-badge&logo=Gradle&logoColor=02303A)](https://gradle.org/)
 [![Maven](https://img.shields.io/badge/Apache%20Maven-beige.svg?style=for-the-badge&logo=Apache%20Maven&logoColor=C71A36)](https://maven.apache.org/)
 [![Hibernate](https://img.shields.io/badge/hibernate-beige.svg?style=for-the-badge&logo=hibernate&logoColor=59666C)](https://hibernate.org/)
