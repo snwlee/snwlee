@@ -42,12 +42,18 @@ Github. [https://github.com/PGRRR](https://github.com/PGRRR)
 [![Spring MVC](https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white)](https://spring.io/)
 [![Gradle](https://img.shields.io/badge/Gradle-beige.svg?style=for-the-badge&logo=Gradle&logoColor=02303A)](https://gradle.org/)
 [![Maven](https://img.shields.io/badge/Apache%20Maven-beige.svg?style=for-the-badge&logo=Apache%20Maven&logoColor=C71A36)](https://maven.apache.org/)
+[![Hibernate](https://img.shields.io/badge/hibernate-beige.svg?style=for-the-badge&logo=hibernate&logoColor=59666C)](https://hibernate.org/)
+[![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-333.svg?style=for-the-badge&logo=apache%20tomcat&logoColor=F8DC75)](https://tomcat.apache.org/)
 
 [![MySQL](https://img.shields.io/badge/MySQL-black.svg?style=for-the-badge&logo=MySQL&logoColor=4479A1)](https://www.mysql.com/)
+![Amazon RDS](https://img.shields.io/badge/Amazon%20RDS-527FFF.svg?style=for-the-badge&logo=Amazon%20RDS&logoColor=white)
+![Amazon EC2](https://img.shields.io/badge/amazon%20ec2-orange.svg?style=for-the-badge&logo=amazon%20ec2&logoColor=white)
 
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white)](https://developer.mozilla.org/ko/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white)](https://developer.mozilla.org/ko/docs/Web/CSS)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=black)](https://www.javascript.com/)
+[![jQuery](https://img.shields.io/badge/jquery-beige.svg?style=for-the-badge&logo=jquery&logoColor=0769AD)](https://jquery.com/)
+[![JSON](https://img.shields.io/badge/json-beige.svg?style=for-the-badge&logo=json&logoColor=black)](https://www.json.org/json-en.html)
 
 [![IntelliJ](https://img.shields.io/badge/IntelliJ-beige.svg?style=flat-square&logo=IntelliJIDEA&logoColor=black)](https://www.jetbrains.com/ko-kr/idea/)
 [![Eclipse](https://img.shields.io/badge/Eclipse-beige.svg?style=flat-square&logo=Eclipse&logoColor=2C2255)](https://www.eclipse.org/)
@@ -57,7 +63,9 @@ Github. [https://github.com/PGRRR](https://github.com/PGRRR)
 [![Sourcetree](https://img.shields.io/badge/Sourcetree-beige.svg?style=flat-square&logo=Sourcetree&logoColor=0052CC)](https://www.sourcetreeapp.com/)
 [![Github](https://img.shields.io/badge/Github-181717.svg?style=flat-square&logo=Github&logoColor=white)](https://github.com/)
 
+[![Postman](https://img.shields.io/badge/postman-beige.svg?style=flat-square&logo=postman&logoColor=FF6C37)](https://www.postman.com/)
 [![Slack](https://img.shields.io/badge/slack-4A154B.svg?style=flat-square&logo=slack&logoColor=white)](https://slack.com/intl/ko-kr/)
+
 
 ### Back-end
 
@@ -77,8 +85,8 @@ Github. [https://github.com/PGRRR](https://github.com/PGRRR)
 
 ### DevOps
 
-- AWS RDS, EC2
-- MySQL
+- Amazon RDS, Amazon EC2
+- MySQL 8.0
 - MyBatis
 - Tomcat
 
@@ -89,13 +97,6 @@ Github. [https://github.com/PGRRR](https://github.com/PGRRR)
 
 # 📍 Experience.
 
-**Java Back-end 웹개발자 과정 교육**
-</br>
-2022.01 ~ 2022.07
-
-- 정보처리기능사 자격증 취득
-- 자바의 정석 학습
-
 **2022 DevCamp 1기 : Java의 정석 남궁성과 포트폴리오 팀 프로젝트**
 </br>
 2022.08 ~ 2022.09
@@ -104,13 +105,18 @@ Github. [https://github.com/PGRRR](https://github.com/PGRRR)
 - 협업 경험을 위한 팀 프로젝트 진행
 - DB 모델링 학습, 웹 성능 최적화 학습
 
+**Java Back-end 웹개발자 과정 교육**
+</br>
+2022.01 ~ 2022.07
+
+- Java, HTML, CSS, JavaScript, SQL 학습
+
 **동성그룹 자회사 제네웰**
 </br>
 2021.03 ~ 2021.09
 
 - 연구원 제약 제조 보조 업무
 - 약품 재고 관리
-- 정규직 제안 이후 진로 변경으로 인한 퇴사
 
 # 📍 C**ertificate.**
 
