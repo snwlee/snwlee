@@ -38,12 +38,14 @@ Github. [https://github.com/PGRRR](https://github.com/PGRRR)
 [![Java11](https://img.shields.io/badge/Java11-007396.svg?&style=for-the-badge&logo=java&logoColor=white)](https://ko.wikipedia.org/wiki/%EC%9E%90%EB%B0%94_(%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D_%EC%96%B8%EC%96%B4))
 [![Spring MVC](https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white)](https://spring.io/)
 [![Spring Boot](https://img.shields.io/badge/spring%20boot-6DB33F.svg?style=for-the-badge&logo=spring%20boot&logoColor=white)](https://spring.io/)
-[![Gradle](https://img.shields.io/badge/Gradle-beige.svg?style=for-the-badge&logo=Gradle&logoColor=02303A)](https://gradle.org/)
-[![Maven](https://img.shields.io/badge/Apache%20Maven-beige.svg?style=for-the-badge&logo=Apache%20Maven&logoColor=C71A36)](https://maven.apache.org/)
+[![Gradle](https://img.shields.io/badge/gradle-02303A.svg?style=for-the-badge&logo=gradle&logoColor=white)](https://gradle.org/)
+[![Maven](https://img.shields.io/badge/apache%20maven-C71A36.svg?style=for-the-badge&logo=apache%20maven&logoColor=white)](https://maven.apache.org/)
 [![Hibernate](https://img.shields.io/badge/hibernate-beige.svg?style=for-the-badge&logo=hibernate&logoColor=59666C)](https://hibernate.org/)
-[![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-333.svg?style=for-the-badge&logo=apache%20tomcat&logoColor=F8DC75)](https://tomcat.apache.org/)
+[![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-F8DC75.svg?style=for-the-badge&logo=apache%20tomcat&logoColor=black)](https://tomcat.apache.org/)
 
-[![MySQL](https://img.shields.io/badge/MySQL-black.svg?style=for-the-badge&logo=MySQL&logoColor=4479A1)](https://www.mysql.com/)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white)](https://www.mysql.com/)
+[![MariaDB](https://img.shields.io/badge/mariaDB-003545.svg?style=for-the-badge&logo=mariaDB&logoColor=C1775A)](https://mariadb.org/)
+
 ![Amazon RDS](https://img.shields.io/badge/Amazon%20RDS-527FFF.svg?style=for-the-badge&logo=Amazon%20RDS&logoColor=white)
 ![Amazon EC2](https://img.shields.io/badge/amazon%20ec2-orange.svg?style=for-the-badge&logo=amazon%20ec2&logoColor=white)
 
@@ -86,6 +88,7 @@ Github. [https://github.com/PGRRR](https://github.com/PGRRR)
 - Amazon RDS, Amazon EC2
 - MySQL 8.0
 - MySQL Workbench
+- MariaDB 10
 - MyBatis
 - Tomcat
 
@@ -101,7 +104,6 @@ Github. [https://github.com/PGRRR](https://github.com/PGRRR)
 2022.08 ~ 2022.09
 
 - 우수 팀 프로젝트 순위 1위
-- 협업 경험을 위한 팀 프로젝트 진행
 - DB 모델링 학습, 웹 성능 최적화 학습
 
 **Java Back-end 웹개발자 과정 교육**
