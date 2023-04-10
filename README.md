@@ -30,7 +30,7 @@ Github. [https://github.com/PGRRR](https://github.com/PGRRR)
 
 ### 개발의 즐거움을 아는 개발자
 
-한 달 동안 24시간, 팀원과 함께 밤낮없이 개발을 진행하면서 개발은 혼자 하는 것이 아닌 함께 만들어 가는 과정이라는 것을 알게 되었습니다. 또한 그로 인해 좋은 결과를 얻으면서 협업의 힘과 즐거움을 깨닫게 되었습니다.
+24시간, 팀원과 함께 밤낮없이 개발을 진행해보는 경험을 하면서 개발은 혼자 하는 것이 아닌 함께 만들어 가는 과정이라는 것을 알게 되었습니다. 또한 그로 인해 좋은 결과를 얻으면서 협업의 힘과 즐거움을 깨닫게 되었습니다.
 
 </br>
 
@@ -55,16 +55,22 @@ Github. [https://github.com/PGRRR](https://github.com/PGRRR)
 [![jQuery](https://img.shields.io/badge/jquery-beige.svg?style=for-the-badge&logo=jquery&logoColor=0769AD)](https://jquery.com/)
 [![JSON](https://img.shields.io/badge/json-beige.svg?style=for-the-badge&logo=json&logoColor=black)](https://www.json.org/json-en.html)
 
-[![IntelliJ](https://img.shields.io/badge/IntelliJ-beige.svg?style=flat-square&logo=IntelliJIDEA&logoColor=black)](https://www.jetbrains.com/ko-kr/idea/)
-[![Eclipse](https://img.shields.io/badge/Eclipse-beige.svg?style=flat-square&logo=Eclipse&logoColor=2C2255)](https://www.eclipse.org/)
-[![VisualStudioCode](https://img.shields.io/badge/VS%20Code-black.svg?style=flat-square&logo=VisualStudioCode&logoColor=007ACC)](https://code.visualstudio.com/)
+[![IntelliJ](https://img.shields.io/badge/IntelliJ-beige.svg?style=for-the-badge&logo=IntelliJIDEA&logoColor=black)](https://www.jetbrains.com/ko-kr/idea/)
+[![Eclipse](https://img.shields.io/badge/Eclipse-beige.svg?style=for-the-badge&logo=Eclipse&logoColor=2C2255)](https://www.eclipse.org/)
+[![VisualStudioCode](https://img.shields.io/badge/Visual%20Studio%20Code-black.svg?style=for-the-badge&logo=VisualStudioCode&logoColor=007ACC)](https://code.visualstudio.com/)
 
-[![Git](https://img.shields.io/badge/Git-beige.svg?style=flat-square&logo=Git&logoColor=F05032)](https://git-scm.com/)
-[![Sourcetree](https://img.shields.io/badge/Sourcetree-beige.svg?style=flat-square&logo=Sourcetree&logoColor=0052CC)](https://www.sourcetreeapp.com/)
-[![Github](https://img.shields.io/badge/Github-181717.svg?style=flat-square&logo=Github&logoColor=white)](https://github.com/)
+[![Flutter](https://img.shields.io/badge/Flutter-beige.svg?style=for-the-badge&logo=Flutter&logoColor=02569B)](https://flutter.dev/)
+[![Dart](https://img.shields.io/badge/dart-111B26.svg?style=for-the-badge&logo=dart&logoColor=0175C2)](https://dart.dev/)
+[![Android Studio](https://img.shields.io/badge/android%20studio-beige.svg?style=for-the-badge&logo=android%20studio&logoColor=3DDC84)](https://developer.android.com/?hl=ko)
+[![Xcode](https://img.shields.io/badge/xcode-beige.svg?style=for-the-badge&logo=xcode&logoColor=147EFB)](https://developer.apple.com/xcode/)
 
-[![Postman](https://img.shields.io/badge/postman-beige.svg?style=flat-square&logo=postman&logoColor=FF6C37)](https://www.postman.com/)
-[![Slack](https://img.shields.io/badge/slack-4A154B.svg?style=flat-square&logo=slack&logoColor=white)](https://slack.com/intl/ko-kr/)
+[![Git](https://img.shields.io/badge/Git-beige.svg?style=for-the-badge&logo=Git&logoColor=F05032)](https://git-scm.com/)
+[![Sourcetree](https://img.shields.io/badge/Sourcetree-beige.svg?style=for-the-badge&logo=Sourcetree&logoColor=0052CC)](https://www.sourcetreeapp.com/)
+[![Github](https://img.shields.io/badge/Github-181717.svg?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/)
+
+[![Postman](https://img.shields.io/badge/postman-beige.svg?style=for-the-badge&logo=postman&logoColor=FF6C37)](https://www.postman.com/)
+[![Slack](https://img.shields.io/badge/slack-4A154B.svg?style=for-the-badge&logo=slack&logoColor=white)](https://slack.com/intl/ko-kr/)
+[![Figma](https://img.shields.io/badge/Figma-1E1E1E.svg?style=for-the-badge&logo=Figma&logoColor=white)](https://www.figma.com/)
 
 
 ### Back-end
@@ -74,7 +80,6 @@ Github. [https://github.com/PGRRR](https://github.com/PGRRR)
 - JUnit 5, JUnit 4
 - Gradle, Maven
 - IntelliJ, Eclipse
-- Git, Github, Sourcetree
 - Postman
 
 ### Front-end
@@ -92,10 +97,17 @@ Github. [https://github.com/PGRRR](https://github.com/PGRRR)
 - MyBatis
 - Tomcat
 
+### App
+
+- Dart
+- Flutter
+
 ### Collaboration
 
+- Git, Github, Sourcetree
 - Slack
 - Notion
+- Figma
 
 # 📍 Experience.
 
