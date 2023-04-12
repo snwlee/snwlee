@@ -1,4 +1,5 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pgrrr&repo=only-fresh)](https://github.com/PGRRR/only-fresh)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pgrrr&repo=CJ-Logistics-prototype-app)](https://github.com/PGRRR/CJ-Logistics-prototype-app)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pgrrr&repo=just-eat)](https://github.com/PGRRR/just-eat)
 
 </br>
