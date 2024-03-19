@@ -9,8 +9,10 @@
 [![Oracle](https://img.shields.io/badge/Oracle-F80000.svg?style=for-the-badge&logo=Oracle&logoColor=white)](https://www.oracle.com/)
 [![Microsoft SQL Server](https://img.shields.io/badge/MSSQL-CC2927.svg?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)](https://en.wikipedia.org/wiki/Microsoft_SQL_Server)
 
+[![JPA](https://img.shields.io/badge/JPA-59666C.svg?style=for-the-badge&logo=hibernate&logoColor=BAAE85)](https://spring.io/projects/spring-data-jpa)
+[![MyBatis](https://img.shields.io/badge/MyBatis-black.svg?style=for-the-badge&logo=twitter&logoColor=D40000)](https://mybatis.org/mybatis-3/)
+[![Docker](https://img.shields.io/badge/docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
 [![Linux](https://img.shields.io/badge/linux-black.svg?style=for-the-badge&logo=linux&logoColor=FCC624)](https://www.linux.org/)
-[![Docker](https://img.shields.io/badge/docker-beige.svg?style=for-the-badge&logo=docker&logoColor=)](https://www.docker.com/)
 
 ```java
 public class BackendDeveloper {
