@@ -1,3 +1,4 @@
+[![resume-cover](https://github.com/snwlee/snwlee/assets/82517133/139a0f12-763b-4d77-b2ec-15d37e05e374 "이선우 이력서")](https://snwlee.github.io/resume/)
 [![Spring](https://img.shields.io/badge/spring-6DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)](https://spring.io/)
 [![Spring Boot](https://img.shields.io/badge/spring%20boot-6DB33F.svg?style=for-the-badge&logo=spring%20boot&logoColor=white)](https://spring.io/)
 [![Spring Batch](https://img.shields.io/badge/spring%20batch-6DB33F.svg?style=for-the-badge&logo=bookstack&logoColor=white)](https://spring.io/)
