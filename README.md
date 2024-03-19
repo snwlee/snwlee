@@ -1,4 +1,15 @@
 [![resume-cover](https://github.com/snwlee/snwlee/assets/82517133/139a0f12-763b-4d77-b2ec-15d37e05e374 "이선우 이력서")](https://snwlee.github.io/resume/)
+
+```java
+public class BackendDeveloper {
+    public static void main(String[] args) {
+        String name = "SunWoo Lee";
+        String email = "pgrrr119@gmail.com";
+        String[] languages = {"Java", "SQL"};
+        String[] frameworks = {"Spring", "Spring Boot", "Spring Batch", "Spring Security"};
+    }
+}
+```
 [![Spring](https://img.shields.io/badge/spring-6DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)](https://spring.io/)
 [![Spring Boot](https://img.shields.io/badge/spring%20boot-6DB33F.svg?style=for-the-badge&logo=spring%20boot&logoColor=white)](https://spring.io/)
 [![Spring Batch](https://img.shields.io/badge/spring%20batch-6DB33F.svg?style=for-the-badge&logo=bookstack&logoColor=white)](https://spring.io/)
@@ -14,17 +25,6 @@
 [![MyBatis](https://img.shields.io/badge/MyBatis-black.svg?style=for-the-badge&logo=twitter&logoColor=D40000)](https://mybatis.org/mybatis-3/)
 [![Docker](https://img.shields.io/badge/docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
 [![Linux](https://img.shields.io/badge/linux-black.svg?style=for-the-badge&logo=linux&logoColor=FCC624)](https://www.linux.org/)
-
-```java
-public class BackendDeveloper {
-    public static void main(String[] args) {
-        String name = "SunWoo Lee";
-        String email = "pgrrr119@gmail.com";
-        String[] languages = {"Java", "SQL"};
-        String[] frameworks = {"Spring", "Spring Boot", "Spring Batch", "Spring Security"};
-    }
-}
-```
 
 # Coding Activity over Last 7 Days
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@9b088db3-8ede-4dad-9a4b-63489f41376c/01409e01-50a2-406e-b5d2-6dfc24795721.png" /></a>
