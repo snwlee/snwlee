@@ -15,7 +15,7 @@
 ```java
 public class BackendDeveloper {
     public static void main(String[] args) {
-        String name = "swlee";
+        String name = "SunWoo Lee";
         String email = "pgrrr119@gmail.com";
         String[] languages = {"Java", "SQL"};
         String[] frameworks = {"Spring", "Spring Boot", "Spring Batch", "Spring Security"};
