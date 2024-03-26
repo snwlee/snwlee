@@ -14,6 +14,12 @@
 [![Docker](https://img.shields.io/badge/docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
 [![Linux](https://img.shields.io/badge/linux-black.svg?style=for-the-badge&logo=linux&logoColor=FCC624)](https://www.linux.org/)
 
+[![Jira](https://img.shields.io/badge/jira-0052CC.svg?style=for-the-badge&logo=jira&logoColor=white)](https://www.atlassian.com/software/jira)
+[![Confluence](https://img.shields.io/badge/confluence-172B4D.svg?style=for-the-badge&logo=confluence&logoColor=white)](https://www.atlassian.com/software/confluence)
+[![Redmine](https://img.shields.io/badge/redmine-B32024.svg?style=for-the-badge&logo=redmine&logoColor=white)](https://www.redmine.org/)
+[![Notion](https://img.shields.io/badge/notion-000000.svg?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/)
+[![Slack](https://img.shields.io/badge/slack-4A154B.svg?style=for-the-badge&logo=slack&logoColor=white)](https://slack.com/)
+
 ```java
 public class BackendDeveloper {
     public static void main(String[] args) {
